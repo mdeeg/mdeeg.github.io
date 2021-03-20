@@ -8,7 +8,7 @@ This is obviously the first blog post concerning me experimenting with [Jekyll][
 
 As I've nothing new interesting to post right now, check out my latest publication regarding a [Zoom security issue][syss-2020-044] and don't forget to watch the proof of concept video [Zoom Unintended Screen Sharing Issue (CVE-2021-28133)][syss-poc-video-zoom].
 
-![SySS PoC Video: Zoom Unintended Screen Sharing Issue (CVE-2021-28133)]({{ BASE_PATH }}/assets/images/zoom_screen_sharing_exposure_poc_video.jpg)
+[![SySS PoC Video: Zoom Unintended Screen Sharing Issue (CVE-2021-28133)]({{ BASE_PATH }}/assets/images/zoom_screen_sharing_exposure_poc_video.jpg)][syss-poc-video-zoom]
 
 [jekyll]: https://jekyllrb.com/
 [syss-2020-044]: https://www.syss.de/fileadmin/dokumente/Publikationen/Advisories/SYSS-2020-044.txt
