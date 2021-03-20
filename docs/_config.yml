@@ -8,6 +8,6 @@ twitter_username: matthiasdeeg
 github_username:  mdeeg
 
 # Build settings
-theme: slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
