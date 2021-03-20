@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to the Machine!"
 date:   2021-03-20 11:50:00 +0100
-categories: news security cve-2021-28133 syss-2020-044
+categories: news security
 ---
 This is obviously the first blog post concerning me experimenting with [Jekyll][jekyll].
 
