@@ -16,7 +16,7 @@ author:
   email: "research@deeg.xyz"
 
 minima:
-  skin: solarized
+  skin: classic
 
   social_links:
       twitter: matthiasdeeg
