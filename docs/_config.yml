@@ -11,8 +11,16 @@ github_username:  mdeeg
 #theme: minima
 remote_theme: mdeeg/minima
 
+author:
+  name: Matthias Deeg
+  email: "research@deeg.xyz"
+
 minima:
-  skin: dark
+  skin: solarized
+
+  social_links:
+      twitter: matthiasdeeg
+      github: mdeeg
 
 plugins:
   - jekyll-feed
