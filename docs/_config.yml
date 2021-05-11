@@ -1,47 +1,4 @@
-title: Research & Recreation Blog
-email: research@deeg.xyz
-description: >- # this means to ignore newlines until "baseurl:"
-  Private research & recreation blog of Matthias Deeg
-baseurl: /
-url: https://research.deeg.xyz/
-twitter_username: matthiasdeeg
-github_username:  mdeeg
-
-# Build settings
-#theme: minima
-remote_theme: mdeeg/jekyll-theme-chirpy
-
-# the HTML language tag › https://www.w3.org/International/questions/qa-choosing-language-tags
-lang: en-US
-
-# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Europe/Berlin
-
-author:
-  name: Matthias Deeg
-  email: "research@deeg.xyz"
-
-
-github:
-  username: mdeeg
-  
-twitter:
-  username: matthiasdeeg
-
-minima:
-  skin: classic
-
-  social_links:
-      twitter: matthiasdeeg
-      github: mdeeg
-
-plugins:
-  - jekyll-feed
-
-
-
 # The Site Configuration
-
 
 # Import the theme
 remote_theme: mdeeg/jekyll-theme-chirpy
