@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://research.deeg.xyz/posts/welcome-to-the-machine/</loc>
+<lastmod>2021-03-20T11:50:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://research.deeg.xyz/categories/</loc>
+<lastmod>2021-07-05T10:57:11+02:00</lastmod>
+</url>
+<url>
+<loc>https://research.deeg.xyz/tags/</loc>
+<lastmod>2021-07-05T10:57:11+02:00</lastmod>
+</url>
+<url>
+<loc>https://research.deeg.xyz/archives/</loc>
+<lastmod>2021-07-05T10:57:11+02:00</lastmod>
+</url>
+<url>
+<loc>https://research.deeg.xyz/about/</loc>
+<lastmod>2021-07-05T10:57:11+02:00</lastmod>
+</url>
+<url>
+<loc>https://research.deeg.xyz/</loc>
+</url>
+<url>
+<loc>https://research.deeg.xyz/tags/news/</loc>
+</url>
+<url>
+<loc>https://research.deeg.xyz/tags/security/</loc>
+</url>
+<url>
+<loc>https://research.deeg.xyz/categories/security/</loc>
+</url>
+</urlset>
